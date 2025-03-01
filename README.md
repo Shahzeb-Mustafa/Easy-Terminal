@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/85856df5-dc28-4b77-b056-f9f8461cb302
 
-#Custom Linux Terminal & Script Generator
+# Custom Linux Terminal & Script Generator
 
 This project is a Python-based GUI terminal and Bash script generator powered by Google's Gemini AI. It allows users to execute Linux commands, enforce input restrictions, and generate executable Bash scripts from natural language descriptions.
 
