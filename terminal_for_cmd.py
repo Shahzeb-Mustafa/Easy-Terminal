@@ -7,7 +7,7 @@ from tkinter import scrolledtext, messagebox
 import google.generativeai as genai
 import threading
 
-GOOGLE_API_KEY = "AIzaSyA1RJISbzG7WJ0T_ZRQIEVj_WWkhiHKml4"  # Replace with your actual API key
+GOOGLE_API_KEY = "Replace with your actual API key"  
 
 
 class NaturalLanguageTerminal:
