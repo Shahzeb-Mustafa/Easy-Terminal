@@ -7,7 +7,7 @@ from tkinter import scrolledtext
 import google.generativeai as genai
 import threading
 
-GOOGLE_API_KEY = "AIzaSyAwpFEMdH7lI00mlhq3fd9zqJ9iLeKFp5Y"
+GOOGLE_API_KEY = "place your api key here"
 
 
 class NaturalLanguageTerminal:
